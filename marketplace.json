@@ -169,7 +169,7 @@
     "version": "1.9.5.2",
     "description": "Bring the icon of the context menu back to Zen/Firefox browser ",
     "readme": "https://raw.githubusercontent.com/1247343406/context-menu-icons-for-Zen/refs/heads/main/README.md",
-    "stars": 23,
+    "stars": 24,
     "fork": [
       "zen",
       "firefox"

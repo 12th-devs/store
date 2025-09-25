@@ -138,6 +138,18 @@
       "zen"
     ]
   },
+  "settings-shortcuts-search": {
+    "homepage": "https://github.com/BibekBhusal0/zen-custom-js/tree/main/settings-shortcuts-search",
+    "image": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/settings-shortcuts-search/image.png",
+    "name": "Search Keyboard shortcuts",
+    "version": "1.0.0",
+    "description": "Lightweight script to add search and filter options in keyboard shortcuts in settings",
+    "readme": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/settings-shortcuts-search/readme.md",
+    "stars": 38,
+    "fork": [
+      "zen"
+    ]
+  },
   "vizen-floaty-ui": {
     "homepage": "moktavizen/floaty-ui",
     "image": "https://raw.githubusercontent.com/moktavizen/floaty-ui/refs/heads/main/media/preview-store.png",
@@ -324,18 +336,6 @@
     "fork": [
       "zen",
       "firefox"
-    ]
-  },
-  "settings-shortcuts-search": {
-    "homepage": "https://github.com/BibekBhusal0/zen-custom-js/tree/main/settings-shortcuts-search",
-    "image": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/settings-shortcuts-search/image.png",
-    "name": "Search Keyboard shortcuts",
-    "version": "1.0.0",
-    "description": "Lightweight script to add search and filter options in keyboard shortcuts in settings",
-    "readme": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/settings-shortcuts-search/readme.md",
-    "stars": 0,
-    "fork": [
-      "zen"
     ]
   },
   "advanced-tab-groups": {

@@ -18,7 +18,7 @@
     "version": "5.3.0",
     "description": "A skin for Firefox and its forks that makes things flow.",
     "readme": "https://raw.githubusercontent.com/greeeen-dev/natsumi-browser/main/README.md",
-    "stars": 442,
+    "stars": 443,
     "fork": [
       "floorp"
     ]
@@ -267,6 +267,18 @@
       "zen"
     ]
   },
+  "cfafe94c-5a29-4dae-8489-6be514185474": {
+    "homepage": "rasyidrafi/zen-better-sidebar",
+    "image": "https://github.com/rasyidrafi/zen-better-sidebar/blob/main/image.png?raw=true",
+    "name": "Better Sidebar",
+    "version": "1.1.8",
+    "description": "Enhance default firefox sidebar with a modern look and feel matching Zen UI.",
+    "readme": "https://raw.githubusercontent.com/rasyidrafi/zen-better-sidebar/refs/heads/main/README.md",
+    "stars": 4,
+    "fork": [
+      "zen"
+    ]
+  },
   "3c8ebf69-1042-49b1-8f08-9178f9490659": {
     "homepage": "rasyidrafi/zen-always-show-music-bar",
     "image": "https://github.com/rasyidrafi/zen-always-show-music-bar/blob/main/image.png?raw=true",
@@ -291,18 +303,6 @@
     "fork": [
       "zen",
       "firefox"
-    ]
-  },
-  "cfafe94c-5a29-4dae-8489-6be514185474": {
-    "homepage": "rasyidrafi/zen-better-sidebar",
-    "image": "https://github.com/rasyidrafi/zen-better-sidebar/blob/main/image.png?raw=true",
-    "name": "Better Sidebar",
-    "version": "1.1.8",
-    "description": "Enhance default firefox sidebar with a modern look and feel matching Zen UI.",
-    "readme": "https://raw.githubusercontent.com/rasyidrafi/zen-better-sidebar/refs/heads/main/README.md",
-    "stars": 3,
-    "fork": [
-      "zen"
     ]
   },
   "f966100a-4fed-4df5-a082-f001c5bd654e": {

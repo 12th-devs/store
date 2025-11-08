@@ -6,7 +6,7 @@
     "version": "3.3.3",
     "description": "A beautiful theme made for Zen Browser :))",
     "readme": "https://raw.githubusercontent.com/JustADumbPrsn/Zen-Nebula/main/README.md",
-    "stars": 1174,
+    "stars": 1175,
     "fork": [
       "zen"
     ]
@@ -116,6 +116,17 @@
       "zen"
     ]
   },
+  "zen-command-palette": {
+    "homepage": "https://github.com/BibekBhusal0/zen-custom-js/tree/main/command-palette",
+    "name": "Zen Command Palette",
+    "version": "1.7.3",
+    "description": "A powerful, extensible command interface for Zen Browser, seamlessly integrated into the URL bar. Inspired by Raycast and Arc.",
+    "readme": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/command-palette/README.md",
+    "stars": 60,
+    "fork": [
+      "zen"
+    ]
+  },
   "ad97bb70-0066-4e42-9b5f-173a5e42c6fc": {
     "homepage": "CosmoCreeper/Zen-Themes/tree/main/SuperPins",
     "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/ad97bb70-0066-4e42-9b5f-173a5e42c6fc/image.png",
@@ -175,6 +186,18 @@
       "zen"
     ]
   },
+  "zzzAltover": {
+    "homepage": "allecsc/Altover",
+    "image": "https://github.com/allecsc/Altover/blob/main/image.png",
+    "name": "Altover Addon",
+    "version": "1.3",
+    "description": "Altover Add-On for Nebula theme. Bundle install for Altover & Nebula themes.",
+    "readme": "https://raw.githubusercontent.com/allecsc/Altover/refs/heads/main/README.md",
+    "stars": 13,
+    "fork": [
+      "zen"
+    ]
+  },
   "customize-collapsed-sidebar": {
     "homepage": "https://github.com/Ciuriya/zen-themes/tree/main/Customize%20Collapsed%20Sidebar",
     "name": "Customize Collapsed Sidebar",
@@ -228,6 +251,17 @@
     "version": "1.0.0",
     "description": "Adds a right click menu option to rename tabs (instead of the present double click one so that you dont have to load the tab anymore). Also adds non-pinned tabs renaming functionality ",
     "readme": "https://raw.githubusercontent.com/Darsh-A/Tab-Rename_Zen-Browser/refs/heads/main/README.md",
+    "stars": 5,
+    "fork": [
+      "zen"
+    ]
+  },
+  "zen-drop-link": {
+    "homepage": "https://github.com/octaviusz/zen-drop-link",
+    "name": "Zen Drop Link to Split",
+    "version": "0.0.2",
+    "description": "This mod allows you to split tabs by drag and drop links",
+    "readme": "https://raw.githubusercontent.com/octaviusz/zen-drop-link/refs/heads/main/README.md",
     "stars": 5,
     "fork": [
       "zen"
@@ -315,40 +349,6 @@
     "fork": [
       "zen",
       "firefox"
-    ]
-  },
-  "zen-command-palette": {
-    "homepage": "https://github.com/BibekBhusal0/zen-custom-js/tree/main/command-palette",
-    "name": "Zen Command Palette",
-    "version": "1.7.3",
-    "description": "A powerful, extensible command interface for Zen Browser, seamlessly integrated into the URL bar. Inspired by Raycast and Arc.",
-    "readme": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/command-palette/README.md",
-    "stars": 0,
-    "fork": [
-      "zen"
-    ]
-  },
-  "zzzAltover": {
-    "homepage": "allecsc/Altover",
-    "image": "https://github.com/allecsc/Altover/blob/main/image.png",
-    "name": "Altover Addon",
-    "version": "1.3",
-    "description": "Altover Add-On for Nebula theme. Bundle install for Altover & Nebula themes.",
-    "readme": "https://raw.githubusercontent.com/allecsc/Altover/refs/heads/main/README.md",
-    "stars": 0,
-    "fork": [
-      "zen"
-    ]
-  },
-  "zen-drop-link": {
-    "homepage": "https://github.com/octaviusz/zen-drop-link",
-    "name": "Zen Drop Link to Split",
-    "version": "0.0.2",
-    "description": "This mod allows you to split tabs by drag and drop links",
-    "readme": "https://raw.githubusercontent.com/octaviusz/zen-drop-link/refs/heads/main/README.md",
-    "stars": 0,
-    "fork": [
-      "zen"
     ]
   },
   "advanced-tab-groups": {

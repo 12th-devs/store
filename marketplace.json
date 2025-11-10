@@ -189,6 +189,18 @@
       "zen"
     ]
   },
+  "zzzAltover": {
+    "homepage": "allecsc/Altover",
+    "image": "https://github.com/allecsc/Altover/blob/main/image.png",
+    "name": "Altover Addon",
+    "version": "1.3",
+    "description": "Altover Add-On for Nebula theme. Bundle install for Altover & Nebula themes.",
+    "readme": "https://raw.githubusercontent.com/allecsc/Altover/refs/heads/main/README.md",
+    "stars": 13,
+    "fork": [
+      "zen"
+    ]
+  },
   "customize-collapsed-sidebar": {
     "homepage": "https://github.com/Ciuriya/zen-themes/tree/main/Customize%20Collapsed%20Sidebar",
     "name": "Customize Collapsed Sidebar",
@@ -234,6 +246,17 @@
     "fork": [
       "floorp",
       "firefox"
+    ]
+  },
+  "zen-drop-link": {
+    "homepage": "https://github.com/octaviusz/zen-drop-link",
+    "name": "Zen Drop Link to Split",
+    "version": "0.0.2",
+    "description": "This mod allows you to split tabs by drag and drop links",
+    "readme": "https://raw.githubusercontent.com/octaviusz/zen-drop-link/refs/heads/main/README.md",
+    "stars": 6,
+    "fork": [
+      "zen"
     ]
   },
   "tab-rename-zen-browser": {
@@ -329,29 +352,6 @@
     "fork": [
       "zen",
       "firefox"
-    ]
-  },
-  "zzzAltover": {
-    "homepage": "allecsc/Altover",
-    "image": "https://github.com/allecsc/Altover/blob/main/image.png",
-    "name": "Altover Addon",
-    "version": "1.3",
-    "description": "Altover Add-On for Nebula theme. Bundle install for Altover & Nebula themes.",
-    "readme": "https://raw.githubusercontent.com/allecsc/Altover/refs/heads/main/README.md",
-    "stars": 0,
-    "fork": [
-      "zen"
-    ]
-  },
-  "zen-drop-link": {
-    "homepage": "https://github.com/octaviusz/zen-drop-link",
-    "name": "Zen Drop Link to Split",
-    "version": "0.0.2",
-    "description": "This mod allows you to split tabs by drag and drop links",
-    "readme": "https://raw.githubusercontent.com/octaviusz/zen-drop-link/refs/heads/main/README.md",
-    "stars": 0,
-    "fork": [
-      "zen"
     ]
   },
   "advanced-tab-groups": {

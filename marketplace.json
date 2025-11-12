@@ -72,7 +72,7 @@
     "version": "2.0.0",
     "description": "A sleek, futuristic theme for Zen Browser that blends modern design with mindful simplicity",
     "readme": "https://raw.githubusercontent.com/JustVibingWhileCoding/Neo-Zen/main/README.md",
-    "stars": 63,
+    "stars": 64,
     "fork": [
       "zen"
     ]
@@ -84,7 +84,7 @@
     "version": "1.0.0",
     "description": "Lightweight script to add search and filter options in keyboard shortcuts in settings",
     "readme": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/settings-shortcuts-search/readme.md",
-    "stars": 60,
+    "stars": 61,
     "fork": [
       "zen"
     ]
@@ -95,7 +95,7 @@
     "version": "2.0.0",
     "description": "Transforms the standard Zen Browser findbar into a modern, floating, AI-powered chat interface. Inspired by Arc Browser.",
     "readme": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/findbar-ai/README.md",
-    "stars": 60,
+    "stars": 61,
     "fork": [
       "zen"
     ]
@@ -106,7 +106,7 @@
     "version": "1.0.0",
     "description": "Lightweight script to, make firefox Sidebar Floating also option to pin/unpin the sidebar.",
     "readme": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/floating-sidebar/readme.md",
-    "stars": 60
+    "stars": 61
   },
   "search-engine-select": {
     "homepage": "https://github.com/BibekBhusal0/zen-custom-js/tree/main/search-engine-select",
@@ -114,7 +114,7 @@
     "version": "1.0.0",
     "description": "Adds a floating UI to switch search engines on a search results page.",
     "readme": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/search-engine-select/readme.md",
-    "stars": 60,
+    "stars": 61,
     "fork": [
       "zen"
     ]
@@ -125,7 +125,7 @@
     "version": "1.7.3",
     "description": "A powerful, extensible command interface for Zen Browser, seamlessly integrated into the URL bar. Inspired by Raycast and Arc.",
     "readme": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/command-palette/README.md",
-    "stars": 60,
+    "stars": 61,
     "fork": [
       "zen"
     ]
@@ -148,7 +148,7 @@
     "version": "2.2.0",
     "description": "This is a quick search script for zen browser. Allows an user to quickly search a query in a small pop up container thus removing the need to swtich to a whole different tab ",
     "readme": "https://raw.githubusercontent.com/Darsh-A/Quick-Search-Zen-Browser/refs/heads/main/README.md",
-    "stars": 39,
+    "stars": 40,
     "fork": [
       "zen"
     ]
@@ -332,7 +332,7 @@
     "homepage": "rasyidrafi/zen-tidy-popup",
     "image": "https://github.com/rasyidrafi/zen-tidy-popup/blob/main/thumbnail.png?raw=true",
     "name": "Tidy Popup & Extension",
-    "version": "2.9.0",
+    "version": "2.9.1",
     "description": "Cleans up popup panels & extensions with optional dividers, compact buttons, and customizable hover colors. Supports using Zen Browser’s primary color or manual light/dark hover colors with conditional preferences.",
     "readme": "https://raw.githubusercontent.com/rasyidrafi/zen-tidy-popup/refs/heads/main/README.md",
     "stars": 2,
